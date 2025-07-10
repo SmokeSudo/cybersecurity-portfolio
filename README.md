@@ -1,6 +1,6 @@
 🛡 SmokeSudo's Cybersecurity Portfolio
 
-Welcome! This portfolio documents my hands-on cybersecurity journey — from foundational learning to practical labs, smart contract security, and threat detection.
+Welcome! This portfolio documents my hands-on cybersecurity journey, from foundational learning to practical labs, smart contract security, and threat detection.
 
 🧭 What I'm Working On
 
