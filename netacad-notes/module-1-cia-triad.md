@@ -1,13 +1,15 @@
-# Module 1 – The CIA Triad
+SmokeSudo's Cybersecurity Portfolio
 
-## Confidentiality
-Ensures information is only accessible to authorized users.
+Welcome! This portfolio documents my hands-on cybersecurity journey — from foundational learning to practical labs, smart contract security, and threat detection.
 
-## Integrity
-Ensures data is not altered or tampered with.
 
-## Availability
-Ensures resources and systems are available when needed.
+Modules Completed
 
-## What I Learned
-The CIA Triad is the foundation of all cybersecurity principles. Every control ties back to one or more of these.
+[Module 1 – Introduction to Cybersecurity](netacad-notes/module-1-introduction-to-cybersecurity.md)
+[Module 2 – Attacks, Concepts, and Techniques](netacad-notes/module-2-attacks-concepts.md)
+[Module 3 – Protecting Your Data and Privacy](netacad-notes/module-3-protecting-your-data.md)
+
+In Progress
+NetAcad Module 4+
+TryHackMe Labs
+Smart Contract Security
