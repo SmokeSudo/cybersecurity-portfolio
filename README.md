@@ -18,4 +18,4 @@ Click to read summaries of what I learned:
 
 ## 🎓 Certificate
 
-![Certificate](./cybersecurity-introduction-certificate.pdf)
+![Certificate](./cybersecurity-introduction-certificate.jpg)
