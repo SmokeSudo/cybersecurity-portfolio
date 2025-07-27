@@ -18,4 +18,5 @@ Click to read summaries of what I learned:
 
 ## 📜 Certificate
 
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://github.com/SmokeSudo/cybersecurity-portfolio/blob/main/cybersecurity-introduction-certificate.jpg?raw=true)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://raw.githubusercontent.com/SmokeSudo/cybersecurity-portfolio/main/cybersecurity-introduction-certificate.jpg
+)
