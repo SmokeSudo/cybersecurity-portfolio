@@ -1,17 +1,21 @@
-🛡 SmokeSudo's Cybersecurity Portfolio
+Introduction to Cybersecurity – Cisco NetAcad
 
-Welcome! This portfolio documents my hands-on cybersecurity journey, from foundational learning to practical labs, smart contract security, and threat detection.
+Welcome to my cybersecurity learning journey!  
+This repo documents my progress through Cisco Networking Academy's "Introduction to Cybersecurity" course.
 
-🧭 What I'm Working On
 
-- 🎓 Cisco Networking Academy
-  - Introduction to Cybersecurity ✅
-  - Cybersecurity Essentials (in progress)
-- 🧪 TryHackMe Labs
-  - Pre-Security Path (active)
-- 💻 Smart Contract Security
-  - Solidity + Vulnerability testing (planned)
-- 🐍 Python Security Scripts
-  - Log analyzers, brute-force simulators (coming soon)
+## 📘 Module Notes
 
-## 📁 Repository Structure
+Click to read summaries of what I learned:
+
+- [Module 1: Introduction to Cybersecurity](./netacad-notes/module-1-introduction-to-cyber-security.md)
+- [Module 2: What You Will Be Protecting](./netacad-notes/module-2-attacks-concepts.md)
+- [Module 3: Understanding the Threat Landscape](./netacad-notes/module-3-protecting-your-data.md)
+- [Module 4: Protecting the Organisation](./netacad-notes/module-4-protecting-your-organization.md)
+- [Module 5: Will Your Future Be in Cybersecurity](./netacad-notes/module-5-will-your-future-be-in-cyber-security.md)
+
+---
+
+## 🎓 Certificate
+
+![Certificate](./certificate.png)
